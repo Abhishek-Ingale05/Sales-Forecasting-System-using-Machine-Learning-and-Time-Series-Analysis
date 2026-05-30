@@ -8,10 +8,10 @@
 ![ARIMA](https://img.shields.io/badge/ARIMA-Time_Series-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-<img width="300" height="300" alt="Figure_1" src="https://github.com/user-attachments/assets/691a34b8-1798-4d1b-8256-b9a5c31628b7" />
-<img width="300" height="300" alt="Figure_2" src="https://github.com/user-attachments/assets/c93ddfbf-0afc-4dcc-ae3f-66db8755e178" />
-<img width="300" height="300" alt="Figure_5" src="https://github.com/user-attachments/assets/8ccb9cab-8175-4304-8f6f-e31af5af0ce5" />
-<img width="300" height="300" alt="Figure_6" src="https://github.com/user-attachments/assets/ce393a89-778f-4071-8e71-e2d91c1dd068" />
+<img width="400" height="300" alt="Figure_1" src="https://github.com/user-attachments/assets/691a34b8-1798-4d1b-8256-b9a5c31628b7" />
+<img width="400" height="300" alt="Figure_2" src="https://github.com/user-attachments/assets/c93ddfbf-0afc-4dcc-ae3f-66db8755e178" />
+<img width="400" height="300" alt="Figure_5" src="https://github.com/user-attachments/assets/8ccb9cab-8175-4304-8f6f-e31af5af0ce5" />
+<img width="400" height="300" alt="Figure_6" src="https://github.com/user-attachments/assets/ce393a89-778f-4071-8e71-e2d91c1dd068" />
 
 
 
